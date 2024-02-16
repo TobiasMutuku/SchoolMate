@@ -1,0 +1,42 @@
+****************************************************************
+SchoolMate
+Copyright © Siddheshwar Software.
+****************************************************************
+https://codecanyon.net/user/mahesh99
+
+------------------------------------------------------------------------------------------------
+How to compile:
+------------------------------------------------------------------------------------------------
+This section describes briefly how to compile SchoolMate from source and how to set connection string. 
+https://youtu.be/t6iVgRX10SM
+=========================================
+How to use SchoolMate software?
+
+Video : https://www.youtube.com/watch?v=0fcyilX-Q5A&t=6s
+===================================
+Login Details
+User Name : admin
+Password  : 12345
+========================================
+
+1) If you need further help regarding codes from Siddheshwar Software, 
+write us to: nilesh.khendke@gmail.com
+
+
+Required Visual Studio Version: 
+------------------------------
+Microsoft Visual Studio 2010
+
+
+Required SAP Crystal Reports Version: 
+-------------------------------------
+Crystal Report for Visual Studio 2010 (CRforVS_13_0_9)
+
+
+Required SQL Server Version: 
+-------------------------------------
+Microsoft Sql Server 2008 R2 
+
+
+If you are ready with the above mentions requirements,
+the Microsoft Visual Studio Solution files (*.sln) should be compiled without any problem.

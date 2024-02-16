@@ -1,0 +1,8 @@
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\bin\Debug\Registery.dll
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\bin\Debug\Registery.pdb
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\bin\Debug\Registery.xml
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\obj\x86\Debug\Registery.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\obj\x86\Debug\Registery.vbproj.GenerateResource.Cache
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\obj\x86\Debug\Registery.dll
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\obj\x86\Debug\Registery.xml
+C:\Users\Vaibhav-PC\Desktop\21.10.2016\Registery\Registery\obj\x86\Debug\Registery.pdb
